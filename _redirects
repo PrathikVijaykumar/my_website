@@ -1,0 +1,8 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+/post/ /blog/
+/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/no-time-for-learning/
+/post/no-time-for-learning/ /blog/no-time-for-learning/
+/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/sdt-in-video-games-basic-needs-misunderstandings/
+/posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/sdt-in-video-games-basic-needs-misunderstandings/
